@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-29T12:35:50 IST" name="Default suite" finished-at="2025-12-29T12:36:19 IST" duration-ms="29178">
+    <groups>
+    </groups>
+    <test started-at="2025-12-29T12:35:50 IST" name="Default test" finished-at="2025-12-29T12:36:19 IST" duration-ms="29178">
+      <class name="datadriventestingusingTestNg.Data_Driven_Testing">
+        <test-method signature="Browser(java.lang.String,java.lang.String)[pri:0, instance:datadriventestingusingTestNg.Data_Driven_Testing@3b69e7d1]" started-at="2025-12-29T12:35:50 IST" name="Browser" data-provider="EasyCalculation" finished-at="2025-12-29T12:35:58 IST" duration-ms="8824" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9740673180]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[raghubn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:datadriventestingusingTestNg.Data_Driven_Testing@3b69e7d1]" started-at="2025-12-29T12:35:59 IST" name="teardown" finished-at="2025-12-29T12:35:59 IST" duration-ms="482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="Browser(java.lang.String,java.lang.String)[pri:0, instance:datadriventestingusingTestNg.Data_Driven_Testing@3b69e7d1]" started-at="2025-12-29T12:35:59 IST" name="Browser" data-provider="EasyCalculation" finished-at="2025-12-29T12:36:10 IST" duration-ms="11165" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9740673180]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pavitra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:datadriventestingusingTestNg.Data_Driven_Testing@3b69e7d1]" started-at="2025-12-29T12:36:10 IST" name="teardown" finished-at="2025-12-29T12:36:11 IST" duration-ms="659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="Browser(java.lang.String,java.lang.String)[pri:0, instance:datadriventestingusingTestNg.Data_Driven_Testing@3b69e7d1]" started-at="2025-12-29T12:36:11 IST" name="Browser" data-provider="EasyCalculation" finished-at="2025-12-29T12:36:18 IST" duration-ms="7534" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pavitra24]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pavi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:datadriventestingusingTestNg.Data_Driven_Testing@3b69e7d1]" started-at="2025-12-29T12:36:18 IST" name="teardown" finished-at="2025-12-29T12:36:19 IST" duration-ms="427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- datadriventestingusingTestNg.Data_Driven_Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
